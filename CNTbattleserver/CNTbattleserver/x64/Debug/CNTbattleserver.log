@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Aser\source\repos\Cities\CNTbattleserver\CNTbattleserver\main.cpp(15,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Aser\source\repos\Cities\CNTbattleserver\CNTbattleserver\main.cpp(34,6): warning C4101: offline_players: неиспользованная локальная переменная
+C:\Users\Aser\source\repos\Cities\CNTbattleserver\CNTbattleserver\main.cpp(135,63): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+C:\Users\Aser\source\repos\Cities\CNTbattleserver\CNTbattleserver\main.cpp(208,68): warning C4312: приведение типов: преобразование из "int" в "LPVOID" большего размера
+  CNTbattleserver.vcxproj -> C:\Users\Aser\source\repos\Cities\CNTbattleserver\x64\Debug\CNTbattleserver.exe
